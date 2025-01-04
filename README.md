@@ -1,10 +1,6 @@
-## नमस्ते (Namaste), I am [Anshul](https://github.com/tech-with-anshul)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=700&lines=नमस्ते+(Namaste),+I+am+Anshul.;Hi+there+👋,+Welcome+to+My+Profile!;+I+am+interested+in+AI,+IoT,+and+Web+Development.+🧠;Always+learning+new+technologies.+💡)](https://git.io/typing-svg)
 
-[![YouTube Badge](https://img.shields.io/badge/-@techwithanshul-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com) 
-[![Twitter Badge](https://img.shields.io/badge/-@techwithanshul-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/techwithanshul)](https://twitter.com/techwithanshul) 
-[![Instagram Badge](https://img.shields.io/badge/-@_inner.sloth_-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/_inner.sloth_)](https://instagram.com/_inner.sloth_) 
-[![Linkedin Badge](https://img.shields.io/badge/-anshultech1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshultech1/)](https://www.linkedin.com/in/anshultech1/) 
-[![Gmail Badge](https://img.shields.io/badge/-workwithanshul2404@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workwithanshul2404@gmail.com)](mailto:workwithanshul2404@gmail.com)
+
 
 <!-- You can add your custom stats badge or achievements -->
 
@@ -38,10 +34,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/teachwithanshul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teachwithanshul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshultech1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshultech1" height="30" width="40" /></a>
-<a href="https://instagram.com/_inner.sloth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_inner.sloth_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/innnersloth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="innnersloth" height="30" width="40" /></a>
+  
+[![YouTube Badge](https://img.shields.io/badge/-@techwithanshul-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com) 
+[![Twitter Badge](https://img.shields.io/badge/-@techwithanshul-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/techwithanshul)](https://twitter.com/techwithanshul) 
+[![Instagram Badge](https://img.shields.io/badge/-@_inner.sloth_-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/_inner.sloth_)](https://instagram.com/_inner.sloth_) 
+[![Linkedin Badge](https://img.shields.io/badge/-anshultech1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshultech1/)](https://www.linkedin.com/in/anshultech1/) 
+[![Gmail Badge](https://img.shields.io/badge/-workwithanshul2404@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workwithanshul2404@gmail.com)](mailto:workwithanshul2404@gmail.com)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
