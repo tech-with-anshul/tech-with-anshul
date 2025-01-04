@@ -1,12 +1,4 @@
 ## नमस्ते (Namaste), I am [Anshul](https://github.com/tech-with-anshul)
-⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.89 %
-
----
-
-⏰ Updated on Sat, 04 Jan 2025 06:17:44 GMT
-
-![Progress Bar CI](https://github.com/tech-with-anshul/tech-with-anshul/workflows/Progress%20Bar%20CI/badge.svg)
-
 
 [![YouTube Badge](https://img.shields.io/badge/-@techwithanshul-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com) 
 [![Twitter Badge](https://img.shields.io/badge/-@techwithanshul-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/techwithanshul)](https://twitter.com/techwithanshul) 
