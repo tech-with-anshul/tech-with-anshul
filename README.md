@@ -1,4 +1,17 @@
-<h1 align="center">Hi 👋, I'm Anshul</h1>
+## नमस्ते (Namaste), I am [Anshul](https://github.com/tech-with-anshul)
+
+[![YouTube Badge](https://img.shields.io/badge/-@techwithanshul-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com) 
+[![Twitter Badge](https://img.shields.io/badge/-@techwithanshul-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/techwithanshul)](https://twitter.com/techwithanshul) 
+[![Instagram Badge](https://img.shields.io/badge/-@_inner.sloth_-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/_inner.sloth_)](https://instagram.com/_inner.sloth_) 
+[![Linkedin Badge](https://img.shields.io/badge/-anshultech1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshultech1/)](https://www.linkedin.com/in/anshultech1/) 
+[![Gmail Badge](https://img.shields.io/badge/-workwithanshul2404@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workwithanshul2404@gmail.com)](mailto:workwithanshul2404@gmail.com)
+
+<!-- You can add your custom stats badge or achievements -->
+
+![GitHub Stats](https://img.shields.io/github/stars/tech-with-anshul?style=flat-square&logo=github&label=GitHub+Stars)
+
+### I am learning and building projects here - [GitHub](https://github.com/tech-with-anshul)
+
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-with-anshul&label=Profile%20views&color=0e75b6&style=flat" alt="tech-with-anshul" /> </p>
