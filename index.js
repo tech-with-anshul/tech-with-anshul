@@ -1,3 +1,5 @@
+const fs = require('fs');
+
 const thisYear = new Date().getFullYear();
 const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00Z`).getTime();
 const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59Z`).getTime();
@@ -13,7 +15,8 @@ function generateProgressBar(progress) {
     return `{ ${progressBar} }`;
 }
 
-const readme = `
+const readmeContent = `
+### Hi there 👋
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
@@ -23,5 +26,3 @@ const readme = `
 
 ![Progress Bar CI](https://github.com/tech-with-anshul/tech-with-anshul/workflows/Progress%20Bar%20CI/badge.svg)
 `;
-
-console.log(readme);
