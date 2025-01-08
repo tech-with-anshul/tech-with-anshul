@@ -22,7 +22,7 @@ jobs:
 
     - name: Commit and Push changes
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{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}}
       run: |
         git config user.name 'tech-with-anshul'
         git config user.email 'tech.with.anshul@users.noreply.github.com'
