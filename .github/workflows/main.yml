@@ -3,24 +3,29 @@ name: Progress Bar CI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *' # Runs every 6 hours
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
+
     - name: Use Node.js
       uses: actions/setup-node@v1
       with:
         node-version: '14.x'
+
     - name: Update README.md
       run: node index.js > README.md
-    - name: Commit change & Push
+
+    - name: Commit and Push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-          git config user.name 'tech-with-anshul'
-          git config user.email 'tech.with.anshul@users.noreply.github.com'
-          git commit -am "bot: update README.md automatically"
-          git push
+        git config user.name 'tech-with-anshul'
+        git config user.email 'tech.with.anshul@users.noreply.github.com'
+        git add README.md
+        git commit -m "bot: update README.md automatically"
+        git push
